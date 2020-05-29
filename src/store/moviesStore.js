@@ -46,6 +46,10 @@ const slice = createSlice({
     toggleMovieWatched: (state, action) => {
       state.watched[action.payload] = !state.watched[action.payload];
     },
+    movieAdded: (state, action) => {
+      state.movies.unshift(action.payload);
+      state.watched[action.payload._id] = false;
+    },
   },
 });
 
@@ -57,5 +61,6 @@ export const {
   updateSearchTerm,
   setCurrentPage,
   toggleMovieWatched,
+  movieAdded,
 } = slice.actions;
 export default slice.reducer;
