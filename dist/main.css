@@ -1,0 +1,15 @@
+.navbar {
+  margin-bottom: 30px;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+}
+
+.clickable-table {
+  transition: all 0.3s;
+}
+
+.clickable-table:hover {
+  background-color: rgb(231, 231, 231);
+}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvaW5kZXguc3R5bGVzLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBIiwiZmlsZSI6Im1haW4uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLm5hdmJhciB7XG4gIG1hcmdpbi1ib3R0b206IDMwcHg7XG4gIGJveC1zaGFkb3c6IDFweCAxcHggNnB4IHJnYmEoMCwgMCwgMCwgMC41KTtcbn1cblxuLmNsaWNrYWJsZS10YWJsZSB7XG4gIHRyYW5zaXRpb246IGFsbCAwLjNzO1xufVxuXG4uY2xpY2thYmxlLXRhYmxlOmhvdmVyIHtcbiAgYmFja2dyb3VuZC1jb2xvcjogcmdiKDIzMSwgMjMxLCAyMzEpO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ==*/
