@@ -44,9 +44,12 @@ const Navbar = () => {
             </NavLink>
           </li>
           <li className='nav-item'>
-            <NavLink className='nav-link' to='/api/v1'>
+            <a
+              className='nav-link'
+              href='https://movie-list-ayers.herokuapp.com/api/v1/'
+            >
               API
-            </NavLink>
+            </a>
           </li>
         </ul>
         <form className='form-inline my-2 my-lg-0' onSubmit={handleSubmit}>
