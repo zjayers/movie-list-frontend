@@ -1,8 +1,7 @@
 # Movie-List-Frontend
-[![GitHub Release](https://img.shields.io/github/release/zjayers/movie-list-frontend.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/movie-list-frontend.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/movie-list-frontend.svg?style=flat)](https://github.com/zjayers/movie-list-frontend/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/movie-list-frontend.svg?style=flat)](https://github.com/zjayers/movie-list-frontend/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/movie-list-frontend.svg?maxAge=25000)](https://github.com/zjayers/movie-list-frontend/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/movie-list-frontend/blob/master/LICENSEs)
 
 ## Description
 
